@@ -1,0 +1,13 @@
+
+k
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªõÄ 8¡·Å³¦1
+l
+java:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(öÂ«À8÷ëó³¦1
+q
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ç÷»ñüÿÿÿÿ8Îäç³¦1
+k
+java:S3008"ORename this field "This" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê„Ö"8ˆ¾Ì³¦1
+£
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(º¶âÿÿÿÿÿ8™ÜÄ³¦1
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(èŞğ¥8Œ¾Ì³¦1

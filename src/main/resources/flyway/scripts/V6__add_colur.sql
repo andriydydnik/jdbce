@@ -1,0 +1,5 @@
+ALTER TABLE cars ADD COLUMN colur VARCHAR(125);
+
+UPDATE cars SET colur = 'RED' WHERE ID = 1;
+UPDATE cars SET colur = 'BLKUE' WHERE ID = 2;
+UPDATE cars SET colur = 'YELOW' WHERE ID = 3;

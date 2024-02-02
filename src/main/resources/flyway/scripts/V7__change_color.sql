@@ -1,0 +1,1 @@
+UPDATE cars SET colur = 'WHITE' WHERE colur = 'BLKUE';
